@@ -19,19 +19,21 @@ termite &
 
 ### MONITOR CONFIGURATION ###
 
-ws1=cli
-ws2=code
-ws3=browse
-ws4=media
-ws5=mail
-ws6=cli2
-ws7=edit
-ws8=steam
-ws9=browsebig
-ws0=code2
+#ws1=cli
+#ws2=code
+#ws3=browse
+#ws4=media
+#ws5=mail
+#ws6=cli2
+#ws7=edit
+#ws8=steam
+#ws9=browsebig
+#ws0=code2
 
-bspc monitor eDP-1 -d $ws1 $ws2 $ws3 $ws4 $ws5
-bspc monitor DP-1 -d $ws6 $ws7 $ws8 $ws9 $ws0
+bspc monitor eDP-1 -d I II III IV V
+bspc monitor DP-1 -d VI VII VIII IX X
+#bspc monitor eDP-1 -d $ws1 $ws2 $ws3 $ws4 $ws5
+#bspc monitor DP-1 -d $ws6 $ws7 $ws8 $ws9 $ws0
 #bspc monitor -d I II III IV V VI VII VIII IX X
 
 ### GENERAL STUFF ###
