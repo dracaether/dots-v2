@@ -14,7 +14,7 @@ This repo only exists for me to transfer my files. Might delete this later.
 
 - [polybar](https://github.com/jaagr/polybar)
 
-- [dmenu](https://github.com/michaelforney/dmenu)
+- ~dmenu~ [rofi](https://github.com/DaveDavenport/rofi)
 
 - [termite](https://github.com/thestinger/termite/)
 
