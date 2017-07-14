@@ -33,3 +33,7 @@ This repo only exists for me to transfer my files. Might delete this later.
 
 ---
 <a href="http://imgur.com/Vxj7J5d"><img src="http://i.imgur.com/Vxj7J5d.png" title="source: imgur.com" /></a>
+
+---
+#### UPDATE: pywal configured + rofi (not shown):
+<a href="http://imgur.com/HWUL8TF"><img src="http://i.imgur.com/HWUL8TF.png" title="source: imgur.com" /></a>
